@@ -1,3 +1,11 @@
+// Q1 . Alex has just graduated from the college and he is going to travel along his motherland. 
+
+// More precisely: there are N towns with integer coordinates. His plan is to travel between each pair of the towns.
+
+// The distance between town A with coordinates (x1, y1) and town B with coordinates (x2, y2) is equal to |x1 - x2| + |y1 - y2|.
+
+// Now he is interested in the total distance between all the pairs of the towns.
+
 const readline = require('readline');
 process.stdin.setEncoding('utf-8');
 
